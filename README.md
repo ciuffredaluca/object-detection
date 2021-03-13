@@ -1,4 +1,4 @@
-# Objecet detection: a YOLO implementation
+# Object detection: a YOLO implementation
 
 ## Papers:
 
