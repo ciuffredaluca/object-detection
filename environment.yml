@@ -1,0 +1,13 @@
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - pip>=21.0.1
+  - pytorch 
+  - torchvision 
+  - torchaudio 
+  - cudatoolkit=11.1
+  - pip:
+    - -r file:requirements/requirements.txt
+
